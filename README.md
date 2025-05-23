@@ -15,6 +15,14 @@ Halo! Saya Zakha, mahasiswa Informatika dari Universitas Jember.  <br>Saya antus
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
+## 📂 Projects
+
+Berikut beberapa project yang sedang atau sudah saya kerjakan:
+- **SAPARDI** – Sistem Pakar Deteksi Penyakit Padi berbasis YOLOv5
+- **Kopeeku** – Aplikasi AI untuk deteksi penyakit tanaman kopi & analisis tanah
+- **TULINE** – Platform AI Jasa Tukang Terdekat
+- **To-Do Organizer Proker** – Manajemen jobdesk organisasi berbasis mobile
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Zakha123-cyber&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
